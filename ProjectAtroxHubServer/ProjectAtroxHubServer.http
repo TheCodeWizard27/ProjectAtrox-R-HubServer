@@ -1,0 +1,6 @@
+@ProjectAtroxHubServer_HostAddress = http://localhost:5265
+
+GET {{ProjectAtroxHubServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
